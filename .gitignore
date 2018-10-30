@@ -6,3 +6,5 @@ toDF_train(1).csv
 train.csv
 cleaned_test(2).csv
 cleaned_train(2).csv
+baseline_cat.csv
+*.csv

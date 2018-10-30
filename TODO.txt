@@ -1,0 +1,1 @@
+- Nel caso in cui si presentassero con troppe poche occorrenze, raggruppare gli elementi delle colonne categoriche in insiemi 
