@@ -8,3 +8,4 @@ cleaned_test(2).csv
 cleaned_train(2).csv
 baseline_cat.csv
 *.csv
+*.rar
